@@ -165,6 +165,15 @@ class App extends React.Component
 		this.forceUpdate();
 	}
 	
+	// when player presses enter while typing in the input box, they have submitted their answer
+	keyPress = (event) =>
+	{
+		if(event.key === "Enter")
+		{
+			this.submitAnswer();
+		}
+	}
+	
 	// when the player submits an answer to a question
 	submitAnswer()
 	{
@@ -242,7 +251,7 @@ class App extends React.Component
 							</div>
 							<br />
 							<div>
-								<input id="questionInput" className="questionInput form-control inline" type="text"></input>
+								<input id="questionInput" className="questionInput form-control inline" type="text" onKeyPress={this.keyPress}></input>
 								<button className="btn btn-secondary submit-button inline" onClick={() => this.submitAnswer()}>Submit</button>
 							</div>
 						</div>

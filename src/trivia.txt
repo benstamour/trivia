@@ -33,7 +33,7 @@ The indigo line in its spectrum
 indigo
 
 What is the only place in the world to have four elements named after it?
-Ytterby, Sweden (yttrium, terbium, erbium, ytterbium)
+Ytterby, Sweden
 Ytterby
 
 IBM has discovered a way to store data on a single atom of which element?
@@ -41,7 +41,7 @@ Holmium
 holmium*, Ho*
 
 How many elements on the periodic table can be spelled using only chemical symbols? (e.g., neon can be spelled as NeON, using the chemical symbols of neon, oxygen, and nitrogen)
-15: CaRbON, NeON, SiLiCoN, PHOsPHoRuS, IrON, CoPPEr, ArSeNiC, KrYPtON, SiLvEr, TiN, XeNoN, BiSmUTh, AsTaTiNe, TeNNeSSiNe, OGaNEsSON
+15
 15*, fifteen*
 
 During which month can we view the Perseid meteor shower?
